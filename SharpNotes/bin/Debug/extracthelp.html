@@ -1,0 +1,82 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Extract Text</title>
+</head>
+<body>
+<table style="background-color: rgb(255, 204, 102); width: 800px;"
+border="1" cellpadding="0" cellspacing="3">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<p align="center"><font face="Arial"><b>Furkan Üzümcü<br>
+SharpNotes<br>
+Extract Text Help</b></font></p>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div align="left">
+<table style="background-color: rgb(255, 102, 0); width: 750px;"
+border="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 100%;"><font color="#ffffff" face="Verdana"
+size="2"><b>&nbsp;How to use Extract Text command system?</b></font></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table style="width: 800px;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 95%;">
+<big><big><span
+style="font-weight: bold; font-family: Arial;">Command Index:</span></big></big><br
+style="font-family: Arial;"><span
+style="font-family: Arial; font-weight: bold;">1. </span><span
+style="font-family: Arial;">GETURL</span><br
+style="font-family: Arial; font-weight: bold;"><span
+style="font-family: Arial; font-weight: bold;">2. </span><span
+style="font-family: Arial;">GETLINE</span><br
+style="font-family: Arial; font-weight: bold;"><span
+style="font-family: Arial; font-weight: bold;">3. </span><span
+style="font-family: Arial;">GETPARTOFLINE1</span><br
+style="font-family: Arial; font-weight: bold;"><span
+style="font-family: Arial; font-weight: bold;">4. </span><span
+style="font-family: Arial;">GETPARTOFLINE2</span><br
+style="font-family: Arial; font-weight: bold;"><span
+style="font-family: Arial; font-weight: bold;">5. </span><span
+style="font-family: Arial;">GETPARTOFLINE3</span><br
+style="font-family: Arial; font-weight: bold;"><span
+style="font-family: Arial; font-weight: bold;">6. </span><span
+style="font-family: Arial;">GETPARTOFLINE4</span><br><br><br><font
+face="Arial" size="3"><span style="font-family: monospace;"></span><b>1) GETURL[url]</b><br>This command inserts the content of the web page given by the parameter url.<br><span
+style="font-weight: bold;">Example:</span><br>GETURL[http://www.utkuaydin.tk/blog/]<br><br><br><b>2) GETLINE[line_number]</b><br>This command extracts the line given by the parameter line_number.<br><span
+style="font-weight: bold;">Example:</span><br>GETLINE[1]<br>GETLINE[4]<br>GETLINE[169]<br><br><br><b>3) GETPARTOFLINE1[line_number;start_text;stop_text]</b><br>This command extracts the part of the line given by the parameters line_number, start_text and stop_text.<br>If the parameter line_number is 0, then the command is applied to all of the lines.<br><span
+style="font-weight: bold;">Example:</span><br>Let '<span
+style="font-weight: bold;">Here is a test line</span>' is a line #10.<br>GETPARTOFLINE1[10;is;line]<br>outputs<br><span
+style="font-weight: bold;">is a test</span><br><br><br><b>4) GETPARTOFLINE2[line_number;start_position;stop_position]</b><br>This command extracts the part of the line given by the parameters line_number, start_position and stop_position.<br></font><font><font
+face="Arial" size="3">If the parameter line_number is 0, then the command is applied to all of the lines.</font></font><br><font
+face="Arial" size="3"><span style="font-weight: bold;">Example:</span><br>Let '<span
+style="font-weight: bold;">Here is a test line</span>' is a line #10.<br>GETPARTOFLINE2[10;2;13]<br>outputs<br><span
+style="font-weight: bold;">ere is a te</span><br> <br><br><b>5) GETPARTOFLINE3[line_number;start_position;stop_text]</b><br>This command extracts the part of the line given by the parameters line_number, start_position and stop_text.<br></font><font><font
+face="Arial" size="3">If the parameter line_number is 0, then the command is applied to all of the lines.</font></font><br><font
+face="Arial" size="3"><span style="font-weight: bold;">Example:</span><br>Let 'Here is a test line' is a line #10.<br>GETPARTOFLINE3[10;2;line]<br>outputs<br><span
+style="font-weight: bold;">ere is a test</span><br><br><br><b>6) GETPARTOFLINE4[line_number;start_text;stop_position]</b><br>This command extracts the part of the line given by the parameters line_number, start_text and stop_position.<br></font><font><font
+face="Arial" size="3">If the parameter line_number is 0, then the command is applied to all of the lines.</font></font><br><font
+face="Arial" size="3"><span style="font-weight: bold;">Example:</span><br>Let '<span
+style="font-weight: bold;">Here is a test line</span>' is a line #10.<br>GETPARTOFLINE4[10;is;13]<br>outputs<br><span
+style="font-weight: bold;">is a te</span><br><br><b>PLEASE NOTE</b><span
+style="font-weight: bold;">:</span> Everything is case sensitive.<br><br><br></font>
+<div style="text-align: center;"><font face="Verdana" size="1">Copyright
+&copy; 2008-2009, Furkan Üzümcü<br>
+All Rights Reserved</font></div>
+</td>
+</tr>
+</tbody>
+</table>
+<span style="font-family: Verdana;"></span>&nbsp;
+</body>
+</html>

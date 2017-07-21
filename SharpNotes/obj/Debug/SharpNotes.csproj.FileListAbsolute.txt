@@ -1,0 +1,137 @@
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.exe
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form8.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form9.resources
+D:\Users\fuzumcu\Desktop\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projeler\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+D:\Projeler\SharpNotes - Copy\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+D:\Projeler\SharpNotes - Copy\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+D:\Projeler\SharpNotes - Copy\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes - Copy\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes - TabPage\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes - TabPage\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes - TabPage\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+D:\Projeler\SharpNotes - TabPage\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+D:\USB\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\USB\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\USB\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\USB\SharpNotes\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.exe
+D:\USB\SharpNotes\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.exe
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form8.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form10.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form8.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.csproj.GenerateResource.Cache
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.exe
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.pdb
+D:\Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form10.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.exe
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.pdb
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.AboutBox1.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form1.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form10.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form2.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form3.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form4.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form5.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form6.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form7.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Form8.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\SharpNotes.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Debug\GenerateResource-ResGen.write.1.tlog

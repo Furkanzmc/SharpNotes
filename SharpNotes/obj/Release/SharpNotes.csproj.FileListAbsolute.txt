@@ -1,0 +1,106 @@
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Form1.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\NotePad.Form2.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\NotePad.Form3.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\NotePad.Form4.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\NotePad.Form5.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\NotePad.Form6.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Properties.Resources.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.csproj.GenerateResource.Cache
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Form2.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Form3.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Form4.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Form5.resources
+C:\Users\Emre\AppData\Local\Temporary Projects\SharpNotes\obj\Release\SharpNotes.Form6.resources
+D:\Projeler\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projeler\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Projeler\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\ResolveAssemblyReference.cache
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.AboutBox1.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form1.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form2.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form3.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form4.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form5.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form6.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Properties.Resources.resources
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.csproj.GenerateResource.Cache
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.exe
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.pdb
+D:\Projeler\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form7.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.AboutBox1.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form1.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form2.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form3.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form4.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form5.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form6.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form7.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Properties.Resources.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.csproj.GenerateResource.Cache
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.exe
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.pdb
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form8.resources
+D:\Users\Emre\Desktop\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form9.resources
+D:\Projeler\SharpNotes\SharpNotes\bin\Release\SharpNotes.exe.config
+D:\Projeler\SharpNotes\SharpNotes\bin\Release\SharpNotes.exe
+D:\Projeler\SharpNotes\SharpNotes\bin\Release\SharpNotes.pdb
+D:\USB\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.exe
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.pdb
+D:\USB\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\USB\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\USB\SharpNotes\SharpNotes\obj\Release\ResolveAssemblyReference.cache
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.AboutBox1.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form1.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form2.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form3.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form4.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form5.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form6.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form7.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.Properties.Resources.resources
+D:\USB\SharpNotes\SharpNotes\obj\Release\SharpNotes.csproj.GenerateResource.Cache
+D:\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.exe
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.pdb
+D:\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+D:\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+D:\Projects\SharpNotes\SharpNotes\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.AboutBox1.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form1.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form2.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form3.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form4.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form5.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form6.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form7.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Properties.Resources.resources
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.csproj.GenerateResource.Cache
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form8.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.exe
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.pdb
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.pdb
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\ResolveAssemblyReference.cache
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.AboutBox1.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form1.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form10.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form2.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form3.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form4.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form5.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form6.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form7.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form8.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Properties.Resources.resources
+\\VBOXSVR\Windows\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.csproj.GenerateResource.Cache
+D:\Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.Form10.resources
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\bin\Debug\SharpNotes.exe.config
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.exe
+C:\Users\Furkan\Desktop\Projects\C# Projects\SharpNotes\SharpNotes\obj\Release\SharpNotes.pdb

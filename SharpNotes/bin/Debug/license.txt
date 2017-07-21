@@ -1,0 +1,13 @@
+________________________________________________________
+
+SharpNotes Readme File
+SharpNotes Version 1.0.0.1
+Copyright (C) 2010, Furkan ÜZÜMCÜ
+All rights reserved.
+________________________________________________________
+
+E-mail: uzumcufurkan@hotmail.com
+This software is programmed by Furkan ÜZÜMCÜ.
+Feel free to use and distribute.
+Please report bugs. 
+For any requests please send an e-mail.
